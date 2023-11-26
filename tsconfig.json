@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "target": "ES6",
+    "outDir": "./dist"
+  }, "include": ["./src/**/*.ts"],"exclude": ["./dist"]
+}
